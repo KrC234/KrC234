@@ -1,6 +1,6 @@
 # Welcome To My Profile 
 
-
+My name is Kalid, I'm an engineering student, this is my profile to follow my projects 
 
 <!--
 **KrC234/KrC234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
